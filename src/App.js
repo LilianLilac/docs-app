@@ -1,4 +1,4 @@
-import List from "./components/AllDocuments/List";
+import List from "./components/List";
 import { data } from "./utils/data";
 
 const App = () => {

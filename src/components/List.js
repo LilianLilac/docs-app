@@ -3,8 +3,8 @@ import ListItem from "./ListItem";
 import "./List.css";
 import DocsFilter from "./DocsFilter";
 import DocsSortBy from "./DocsSort";
-import { getFilteredDocument, sortByName } from "../../utils/myFunctions";
-import { data } from "../../utils/data";
+import { getFilteredDocument, sortByName } from "../utils/myFunctions";
+import { data } from "../utils/data";
 
 const List = (props) => {
   const [filteredName, setFilteredName] = useState("");
