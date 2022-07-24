@@ -1,0 +1,9 @@
+.document-date {
+  display: flex;
+  width: 10rem;
+  background-color: #205493;
+  color: white;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+}
